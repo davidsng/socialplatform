@@ -12,6 +12,7 @@
   "dependencies": {
     "bootstrap": "^3.3.5",
     "browserify": "^11.0.1",
+    "fixed-data-table": "^0.6.0",
     "flux": "^2.0.3",
     "gulp": "^3.9.0",
     "gulp-concat": "^2.6.0",
@@ -22,6 +23,7 @@
     "lodash": "^3.10.0",
     "object-assign": "^3.0.0",
     "react": "^0.13.3",
+    "react-infinite": "^0.7.3",
     "react-router": "^0.13.3",
     "reactify": "^1.1.1",
     "standard": "^5.4.1",

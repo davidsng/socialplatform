@@ -5,6 +5,7 @@ var Router = require('react-router')
 var Link = Router.Link
 var AuthorActions = require('../../actions/authorActions')
 var toastr = require('toastr')
+var Infinite = require('react-infinite')
 
 var AuthorList = React.createClass({
   propTypes: {
@@ -41,6 +42,7 @@ var AuthorList = React.createClass({
           </tbody>
         </table>
       </div>
+      // </Infinite>
     )
   }
 })
